@@ -1,0 +1,10 @@
+<svg width="50" height="50" viewBox="-100 -100 200 200" xmlns="http://www.w3.org/2000/svg">
+  <path d="
+    M 100 0 
+    C 50 0, 0 50, 0 100
+    C 0 50, -50 0, -100 0
+    C -50 0, 0 -50, 0 -100 
+    C 0 -50, 50 0, 100 0
+    Z"
+    fill="yellow" stroke="orange" stroke-width="3"/>
+</svg>

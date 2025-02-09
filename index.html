@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AGENT COBI AI</title>
+        <link rel="stylesheet" href="css/style.css"> <!-- Archivo CSS externo -->
+        <link
+            href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap"
+            rel="stylesheet">
+
+    </head>
+    <!-- Video de fondo -->
+    <div class="video-background">
+        <video autoplay muted loop>
+            <source src="assets/videos/cobi.mp4" type="video/mp4">
+            Tu navegador no soporta videos en HTML5.
+        </video>
+    </div>
+    <body class="content">
+        <header class="header">
+            <div class="header-content">
+                <div class="title-icon">
+                    <img src="assets/svg/icon.svg" alt="Agent Cobi Logo" width="25"
+                        height="25">
+                    <div class="title"></div>
+                </div>
+
+                <div class="language-switcher">
+                    <button id="btnEs" style="display: none;">
+                        <img src="assets/svg/flag_es.svg" alt="Español" width="30">
+                    </button>
+                    <button id="btnEn">
+                        <img src="assets/svg/flag_en.svg" alt="English" width="30">
+                    </button>
+                </div>
+                <button class="whitelist-btn" id="headerButton"></button>
+            </div>
+        </header>
+
+        <section class="hero">
+            <div class="hero-content">
+                <div class="text-content">
+                    <h1 id="heroHeading"></h1>
+                    <h2 id="heroSubheading"></h2>
+                    <div class="buttons">
+                        <button class="whitelist-btn"
+                            id="heroWhitelistButton"></button>
+                        <button class="follow-btn"
+                            id="heroFollowButton"></button>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="follow-dev">
+            <div class="dev-content">
+                <a class="link" id="followDev"></a>
+            </div>
+        </section>
+
+        <section class="info">
+            <div class="info-content" id="infoBoxes"></div>
+        </section>
+
+        <footer class="footer">
+            <div class="footer-content">
+                <div class="title-icon">
+                    <img src="assets/svg/icon.svg" alt="Agent Cobi Logo" width="25"
+                        height="25">
+                    <div class="title"></div>
+                </div>
+                <p id="footerText"></p>
+            </div>
+        </footer>
+
+        <script src="js/script.js"></script>
+    </body>
+
+</html>

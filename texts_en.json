@@ -1,0 +1,26 @@
+{
+  "title": "AGENT COBI AI",
+  "headerButton": "TRY IT NOW",
+  "hero": {
+    "heading": "Your crypto assistant 24/7, always one step ahead.",
+    "subheading": "Real-time alerts, prices, and news. Stay instantly informed on Telegram.",
+    "whitelistButton": "TRY IT NOW",
+    "followButton": "FOLLOW US"
+  },
+  "followDev": "Follow the developer @_caldeiX on X",
+  "infoBoxes_checked": [
+    "Crypto tracking & instant alerts",
+    "Real-time price requests",
+    "Engaged crypto community",
+    "Breaking crypto news as it happens"
+  ],
+  "infoBoxes_progress": [
+    "Performance charts (1, 7 & 30 days)",
+    "Portfolio management & tracking",
+    "SOL wallet tracking",
+    "Advanced market analysis tools"
+  ],
+  "footer": {
+    "text": "Agent Cobi AI is an experimental project under active development. Features and functionality will continue to evolve—so use the platform with caution and help shape its future by sharing your ideas!"
+  }
+}

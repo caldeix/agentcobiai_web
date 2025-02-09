@@ -1,0 +1,25 @@
+{
+    "title": "AGENT COBI AI",
+    "headerButton": "PRUÉBALO AHORA",
+    "hero": {
+        "heading": "Tu asistente cripto 24/7, siempre un paso adelante.",
+        "subheading": "Alertas, precios y noticias en tiempo real. Mantente informado al instante en Telegram.",
+        "whitelistButton": "PRUÉBALO AHORA",
+        "followButton": "SÍGUENOS"
+    },
+    "followDev": "Sigue al desarrollador @_caldeiX en X",
+    "infoBoxes_checked": [
+        "Seguimiento cripto y alertas instantáneas",
+        "Consulta de precios en tiempo real",
+        "Comunidad cripto activa y comprometida",
+        "Noticias de última hora en el mundo cripto"],
+    "infoBoxes_progress":[
+        "Gráficos de rendimiento (1, 7 y 30 días)",
+        "Gestión y seguimiento de portafolios",
+        "Monitoreo de wallets SOL",
+        "Herramientas avanzadas para análisis de mercado"
+    ],
+    "footer": {
+        "text": "Agent Cobi AI es un proyecto experimental en constante desarrollo. Las funciones y características seguirán evolucionando, así que úsalo con precaución y ayúdanos a mejorarlo compartiendo tus ideas."
+    }
+}
