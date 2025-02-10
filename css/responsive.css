@@ -1,0 +1,52 @@
+@media (max-width: 768px) {
+    #headerButton{
+        display: none;
+    }
+    .header .header-content{
+        width: 95%;
+    }
+    .header .header-content .title-icon {
+        width: 100%;
+        text-align: justify;
+    }
+    
+    .hero{
+        width: 85%;
+    }
+    .hero h1{
+        font-size: 36px !important;
+    }
+    .hero h2{
+        font-size: 24px !important;
+    }
+    .hero .buttons{
+        width: 100%;
+        justify-content: space-around;
+    }
+    .whitelist-btn, .follow-btn{
+        min-width: auto;
+    }
+    .footer {
+        position: relative;
+    }
+    *{
+        overflow-y: auto;
+    }
+    .info .info-content{
+        width: auto;
+    }
+    .info .info-content .box{
+        width: 40%;
+    }
+    .footer .footer-content .title-icon{
+        display: none;
+    }
+    .footer .footer-content{
+        width: auto;
+    }
+    .footer .footer-content p{
+        width: 100%;
+        text-align: justify;
+        padding: 10px;
+    }
+}

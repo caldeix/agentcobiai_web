@@ -1,10 +1,10 @@
 {
     "title": "AGENT COBI AI",
-    "headerButton": "PRUÉBALO AHORA",
+    "headerButton": "PRUÉBALO",
     "hero": {
         "heading": "Tu asistente cripto 24/7, siempre un paso adelante.",
         "subheading": "Alertas, precios y noticias en tiempo real. Mantente informado al instante en Telegram.",
-        "whitelistButton": "PRUÉBALO AHORA",
+        "whitelistButton": "PRUÉBALO",
         "followButton": "SÍGUENOS"
     },
     "followDev": "Sigue al desarrollador @_caldeiX en X",
